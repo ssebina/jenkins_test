@@ -1,1 +1,2 @@
 this is test file 3 to confirm full integration with jenkins
+changing the chmod of the pipe to 777 to allow commands from the jenkins pipe
